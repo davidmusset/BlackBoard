@@ -6,6 +6,10 @@ body{
   text-align: center;
 }
 
+.container{
+  max-width: 90% !important;
+}
+
 .App-header {
   margin-top: 10px;
   font-size: 15px;
@@ -42,10 +46,11 @@ body{
 }
 
 .card-body{
-  height: 200px;
+  height: 250px;
 }
 
 .card-title{
+  height: 80px;
   font-size: 25px;
 }
 
